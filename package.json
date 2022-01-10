@@ -7,6 +7,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "fp-ts": "^2.11.7",
+    "io-ts": "^2.2.16",
+    "io-ts-reporters": "^2.0.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
